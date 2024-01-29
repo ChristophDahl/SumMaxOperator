@@ -12,6 +12,7 @@ The model also takes the maximum response among a group of neurons at a particul
 By using both summation and maximum operations, Riesenhuber and Poggio's model aimed to capture different aspects of object recognition. The summation operation allows for the integration of information from multiple neurons, helping to detect various features within an object. On the other hand, the maximum operation emphasizes the most salient or important feature within the object.
 
 In the following, you find an implementation in Matlab for the Sum- and Max-operators.
+As a result, an input image should lead to a distinct featural representation using the sum operator, but an identical representation across variation in features (here the position of a line in the receptive field) using the max operator.
 
 
 ![Diagonal_filtersize10_dimension14_line_intensity0_background_intensity255](https://github.com/ChristophDahl/SumMaxOperator/assets/56686743/6cc28b39-5155-4023-aae7-691d068110bc)
