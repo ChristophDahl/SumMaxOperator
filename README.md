@@ -15,3 +15,9 @@ In the following, you find an implementation in Matlab for the Sum- and Max-oper
 
 
 ![Diagonal_filtersize10_dimension14_line_intensity0_background_intensity255](https://github.com/ChristophDahl/SumMaxOperator/assets/56686743/6cc28b39-5155-4023-aae7-691d068110bc)
+
+![Diagonal_filtersize10_dimension14_line_intensity255_background_intensity0](https://github.com/ChristophDahl/SumMaxOperator/assets/56686743/eacdee88-5dbe-41cb-b1db-b197eeef729c)
+
+
+![Left_filtersize10_dimension14_line_intensity255_background_intensity0](https://github.com/ChristophDahl/SumMaxOperator/assets/56686743/e3fc316b-ca62-427a-b904-7253bd76b62b)
+![Left_filtersize10_dimension14_line_intensity0_background_intensity255](https://github.com/ChristophDahl/SumMaxOperator/assets/56686743/b8b01f9b-82d3-4173-913f-cc3c871adc49)
